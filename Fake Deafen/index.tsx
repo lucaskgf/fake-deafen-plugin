@@ -10,7 +10,7 @@ import definePlugin from "@utils/types";
 export default definePlugin({
     name: "FakeDeafen",
     description: "Adiciona um botão para simular mute/deafen.",
-    authors: [Devs.Vendicated], // Substitua por seu nome ou use Devs.Vendicated se for sua primeira contribuição.
+    authors: [lucaskgf], // Substitua por seu nome ou use Devs.Vendicated se for sua primeira contribuição.
     start() {
         this.setupFakeDeafen();
     },
