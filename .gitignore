@@ -1,0 +1,45 @@
+# Dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Build e distribuição
+dist/
+build/
+out/
+*.exe
+*.zip
+*.tar.gz
+
+# Testes e cobertura
+coverage/
+.nyc_output/
+
+# Outros
+*.tmp
+*.bak
+*.patch
