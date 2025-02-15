@@ -90,12 +90,12 @@
   <p>
     <img src="https://img.shields.io/badge/English-🇺🇸-blue" alt="English">
   </p>
-  <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+  <p>This project is licensed under the GNU License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Português-🇧🇷-green" alt="Português">
   </p>
-  <p>Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
+  <p>Este projeto está sob a licença GNU . Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
 
   <hr>
 
