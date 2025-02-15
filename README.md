@@ -15,7 +15,9 @@
   </p>
 
   <p style="text-align: center;">
-    [fork](https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd) alt="Demo" style="border-radius: 10px;">
+    <a href="https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd" alt="Demo" style="border-radius: 10px;">
+</a>
   </p>
 
   <hr>
