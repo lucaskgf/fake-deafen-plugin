@@ -17,7 +17,13 @@
   <p style="text-align: center;">
     <a href="https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd" target="_blank">
   <img src="https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd" alt="Demo" style="border-radius: 10px;">
-</a>
+    </a>
+  </p>
+
+   <p style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/e1c23faf-4d22-4883-8811-f4f57f5567bc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e1c23faf-4d22-4883-8811-f4f57f5567bc" alt="Demo" style="border-radius: 10px;">
+    </a>
   </p>
 
   <hr>
