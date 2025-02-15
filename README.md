@@ -15,7 +15,7 @@
   </p>
 
   <p style="text-align: center;">
-    <img src="https://via.placeholder.com/800x400.png?text=Plugin+Demo" alt="Demo" style="border-radius: 10px;">
+    <img src="![fork](https://github.com/user-attachments/assets/0ae6f668-94d2-45d4-a802-af94ebeaeefd)" alt="Demo" style="border-radius: 10px;">
   </p>
 
   <hr>
