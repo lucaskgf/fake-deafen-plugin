@@ -86,35 +86,6 @@
 
   <hr>
 
-  <h2>Contributing / Contribuição</h2>
-  <p>
-    <img src="https://img.shields.io/badge/English-🇺🇸-blue" alt="English">
-  </p>
-  <p>Contributions are welcome! Follow these steps:</p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (<code>git checkout -b feature/amazing-feature</code>).</li>
-    <li>Commit your changes (<code>git commit -m 'Add an amazing feature'</code>).</li>
-    <li>Push to the branch (<code>git push origin feature/amazing-feature</code>).</li>
-    <li>Open a pull request.</li>
-  </ol>
-  <p>For more details, see <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Português-🇧🇷-green" alt="Português">
-  </p>
-  <p>Contribuições são bem-vindas! Siga estas etapas:</p>
-  <ol>
-    <li>Faça um fork do repositório.</li>
-    <li>Crie um branch para sua feature (<code>git checkout -b feature/feature-incrivel</code>).</li>
-    <li>Commit suas mudanças (<code>git commit -m 'Adiciona uma feature incrível'</code>).</li>
-    <li>Faça push para o branch (<code>git push origin feature/feature-incrivel</code>).</li>
-    <li>Abra um pull request.</li>
-  </ol>
-  <p>Para mais detalhes, veja <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
-
-  <hr>
-
   <h2>License / Licença</h2>
   <p>
     <img src="https://img.shields.io/badge/English-🇺🇸-blue" alt="English">
